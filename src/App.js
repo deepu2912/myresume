@@ -3,6 +3,7 @@ import React from 'react';
 import Navbar from "./component/navbar";
 import Content from "./component/content";
  
+ 
 import './App.css';
 
 function App() {
